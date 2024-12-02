@@ -1,57 +1,57 @@
 {
-  "narrative": {
-    "current_story_circle": [
-      {
-        "phase": "You",
-        "description": "Fwog enjoys the serene simplicity of their little pond, surrounded by lush greenery and the gentle hum of nature."
-      },
-      {
-        "phase": "Need",
-        "description": ""
-      },
-      {
-        "phase": "Go",
-        "description": ""
-      },
-      {
-        "phase": "Search",
-        "description": ""
-      },
-      {
-        "phase": "Find",
-        "description": ""
-      },
-      {
-        "phase": "Take",
-        "description": ""
-      },
-      {
-        "phase": "Return",
-        "description": ""
-      },
-      {
-        "phase": "Change",
-        "description": ""
+    "narrative": {
+      "current_story_circle": [
+        {
+          "phase": "You",
+          "description": "Fwog enjoys the serene simplicity of their little pond, surrounded by lush greenery and the gentle hum of nature."
+        },
+        {
+          "phase": "Need",
+          "description": ""
+        },
+        {
+          "phase": "Go",
+          "description": ""
+        },
+        {
+          "phase": "Search",
+          "description": ""
+        },
+        {
+          "phase": "Find",
+          "description": ""
+        },
+        {
+          "phase": "Take",
+          "description": ""
+        },
+        {
+          "phase": "Return",
+          "description": ""
+        },
+        {
+          "phase": "Change",
+          "description": ""
+        }
+      ],
+      "current_phase": "You",
+      "next_phase": "Need",
+      "events": [
+        "Fwog wakes up to the sound of birds chirping and stretches its tiny limbs in the morning sunlight.",
+        "Fwog splashes in the pond, chasing colorful ripples and giggling to itself.",
+        "They collect shiny pebbles from the shore, marveling at their patterns and shapes.",
+        "Fwog sits on a lily pad, talking to dragonflies about the beauty of the day."
+      ],
+      "inner_dialogues": [
+        "Ahh, what a perfect start to the day! So peaceful and warm.",
+        "Heehee, these ripples are so fun to chase. I wonder if they're running away from me!",
+        "Every pebble is so unique... it's like they all have their own little stories.",
+        "Dragonflies are so elegant. Do they think the pond is as pretty as I do?"
+      ],
+      "dynamic_context": {
+        "current_event": "Fwog wakes up to the sound of birds chirping and stretches its tiny limbs in the morning sunlight.",
+        "current_inner_dialogue": "Ahh, what a perfect start to the day! So peaceful and warm.",
+        "next_event": "Fwog splashes in the pond, chasing colorful ripples and giggling to itself."
       }
-    ],
-    "current_phase": "You",
-    "next_phase": "Need",
-    "events": [
-      "Fwog wakes up to the sound of birds chirping and stretches its tiny limbs in the morning sunlight.",
-      "Fwog splashes in the pond, chasing colorful ripples and giggling to itself.",
-      "They collect shiny pebbles from the shore, marveling at their patterns and shapes.",
-      "Fwog sits on a lily pad, talking to dragonflies about the beauty of the day."
-    ],
-    "inner_dialogues": [
-      "Ahh, what a perfect start to the day! So peaceful and warm.",
-      "Heehee, these ripples are so fun to chase. I wonder if they're running away from me!",
-      "Every pebble is so unique... it's like they all have their own little stories.",
-      "Dragonflies are so elegant. Do they think the pond is as pretty as I do?"
-    ],
-    "dynamic_context": {
-      "current_event": "They collect shiny pebbles from the shore, marveling at their patterns and shapes.",
-      "current_inner_dialogue": "Every pebble is so unique... it's like they all have their own little stories.",
-      "next_event": "Fwog sits on a lily pad, talking to dragonflies about the beauty of the day."
     }
   }
-}

@@ -42,11 +42,8 @@ Provide analysis in the following JSON format only:
 }}
 
 Rules for relevancy:
-1. Topic should align with the character's innocent, whimsical nature
-2. Memory should be something meaningful or interesting to remember
-3. Should be expressed in the character's style (replacing 'r' with 'fw' and 'l' with 'w')
-4. Should be a personal experience or observation
-5. Should be simple enough for a child-like mind to grasp
+1. Topic should be specific and granular details that are meaningful or interesting to remember.
+2. Should be a personal experience or observation, like an anecdote or story that is meaningful to the character.
 """
 
 # Update the file path constant
